@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 26px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+p {
+    color: aliceblue;
+    font-size: 24;
+    margin-left: 20px;
+
+}
+
+footer {
+
+    font-size: 24;
+    margin-left: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+
+
+}
+
+p1 {
+    color: rgb(9, 67, 1);
+
+}
+
+hr {
+
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    opacity: 60%;
+}
+
+li {
+    color: aliceblue;
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+    margin-bottom: 65px;
+    float: left;
+}
